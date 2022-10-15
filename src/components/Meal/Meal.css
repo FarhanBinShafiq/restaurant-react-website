@@ -1,0 +1,30 @@
+ .menu-food-cart {
+     display: flex;
+     border: 1px solid black;
+     width: 100%;
+     height: auto;
+
+ }
+
+ .menu-image{
+    width: 40%;
+    height: 100;
+ }
+
+ .menu-food-cart>.menu-categrory {
+     padding: 70px 0;
+     text-align: center;
+     width: 30%;
+     background-color: aquamarine;
+
+ }
+
+ .menu-cart-description {
+     padding: 20px;
+     height: 140px;
+     width: 35%;
+     overflow-y: scroll;
+
+
+ }
+

@@ -1,0 +1,16 @@
+.restuarants-cart{
+    display: flex;
+}
+
+.menu-cart{
+    width: 70%;
+     
+}
+
+
+.search-box{
+    margin: 10px;
+    width: 45%;
+    height: 40px;
+    
+}
